@@ -32,7 +32,7 @@ app.get('/users', (req, res, next) => {
       //console.log('error', error)
     //} else {
       //res.send(fields)
-    }//
+   // }
   })
 });
 
